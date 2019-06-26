@@ -1,0 +1,8 @@
+[package]
+name = "state_scratch"
+version = "0.1.0"
+authors = ["ankit <ankit@xand.me>"]
+edition = "2018"
+
+[dependencies]
+derive-new = "0.5.6"
